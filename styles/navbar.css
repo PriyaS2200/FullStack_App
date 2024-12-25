@@ -1,0 +1,35 @@
+#nav-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(54, 228, 170);
+    padding: 20px;
+}
+
+#logo {
+    text-decoration: none;
+    text-align: center;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: bold;
+    text-shadow: 2px 2px 5px rgb(123, 214, 245);
+    font-size: 2rem;
+    color: rgb(252, 252, 177);
+
+}
+
+#nav-links {
+   display: flex;
+   justify-content: space-evenly;
+   align-items: center;
+   gap: 30px;
+}
+
+#nav-links > a {
+    text-decoration: none;
+    font-weight: bold;
+    font-family: sans-serif;
+    color: rgb(252, 250, 170);
+    font-size: 1.2rem;
+    margin-right: 20px;
+    text-shadow: 1px 1px 2px lightcyan;
+}     
