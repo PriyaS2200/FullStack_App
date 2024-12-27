@@ -1,0 +1,1 @@
+export let baseurl = "https://nebulous-nine-battery.glitch.me";

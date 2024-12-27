@@ -5,6 +5,8 @@ const navbar = () => {
   
           <a href="signup.html"> Signup </a>
           <a href="login.html"> Login </a>
+          <a href="notes.html"> Notes </a>
+          <a href="index.html"> Signout </a>
          </div>
       </div>`;
   
